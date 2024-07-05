@@ -1,3 +1,7 @@
+#### This is my fork of the gjs-osk project. I did not want to use the new keycode format that was introduced after commit 9548af7 in upstream.
+
+#### As such, this fork has been reverted to 9548af7 and my custom keycodes.json added in
+
 # [GJS OSK](https://extensions.gnome.org/extension/5949/gjs-osk/)
 A (marginally) better on screen keyboard for GNOME 45+ (go to the [pre-45 branch](https://github.com/Vishram1123/gjs-osk/tree/pre-45) for compatibility from gnome 42-44)
 ## Advantages over the default OSK:
